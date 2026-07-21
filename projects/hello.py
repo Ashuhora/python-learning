@@ -110,3 +110,49 @@ print(f"{'-' * 10} | {'-' * 10}")
 print(f"{fruit1:<10} | ${price1:>9.2f}")
 print(f"{fruit2:<10} | ${price2:>9.2f}")
 print(f"{fruit3:<10} | ${price3:>9.2f}")
+
+
+# =========================================================
+# The type() function
+
+# type() shows the data type of a value or variable.
+
+number = 25
+price = 19.99
+name = "Nahum"
+is_student = True
+
+print(type(number))
+print(type(price))
+print(type(name))
+print(type(is_student))
+
+# =========================================================
+# The input() function
+
+# input() always stores what the user types as a string.
+
+user_input = input("Enter a number: ")
+
+print(f"You entered: {user_input}")
+print(f"The data type is {type(user_input)}")
+
+# =========================================================
+# Converting a string to a float
+
+user_input = input("Enter the length: ")
+
+length = float(user_input)
+
+print(length)
+print(type(length))
+
+# =========================================================
+# Converting a string to an integer
+
+user_input = input("Enter your age: ")
+
+age = int(user_input)
+
+print(f"You are {age} years old.")
+print(type(age))
