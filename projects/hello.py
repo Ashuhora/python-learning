@@ -1,5 +1,5 @@
 # Python basics practice.
-# This file contains examples from class.
+# This file contains examples from class
 # and my own practice examples.
 # =================================================
 print("Hello, World!")
@@ -9,7 +9,7 @@ print("I am learning Python.")
 # Integer is a whole number
 number_of_students = 10
 
-#A float is a number with a decimal point.
+# A float is a number with a decimal point.
 class_time = 7.5
 
 print(number_of_students)
