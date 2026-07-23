@@ -32,7 +32,7 @@ print("The first character is:", word[0])
 print("The last character is:", word[-1])
 print("The length of the word is:", len(word))
 
-# Script 4: Names
+# Script : Names
 
 first_name = input("Please enter your first name: ")
 last_name = input("Please enter your last name: ")
