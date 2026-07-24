@@ -1,0 +1,14 @@
+# This is pop() example
+
+todo_list = []
+
+todo_list.append("Buy groceries")
+todo_list.append("Finish homework")
+todo_list.append("Call mom")
+
+todo_list.insert(1, "pay bills")
+
+done_task = todo_list.pop()
+
+print("you completed:", done_task)
+print("to-do list after removal:", todo_list)
