@@ -1,0 +1,4 @@
+# This program counts backward using a for loop.
+
+for num in range(5, 1, -1):
+    print(num)
