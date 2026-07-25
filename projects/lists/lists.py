@@ -71,7 +71,6 @@ print(len(planets))
 
 # Loop through a list
 
-# Loop through a list
 
 planets = ["mercury", "venus", "earth"]
 
