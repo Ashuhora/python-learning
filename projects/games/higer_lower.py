@@ -12,11 +12,9 @@ num2 = random.randint(1, 10)
 print(f"The first number is {num1}.")
 
 # ask the player for a guess
-
 guess = input("will the next number be (h)iger or (l)ower? ")
 
 # Display the second number
-
 print(f"The second number is {num2}.")
 
 # Check if the player's guess is correct
