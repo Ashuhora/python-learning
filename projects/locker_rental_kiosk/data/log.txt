@@ -1,0 +1,13 @@
+[2026-07-31T18:06:01.200555+00:00] LogManager test is successful.
+[2026-07-31T20:34:04.769071+00:00] User nahum created.
+[2026-07-31T20:34:04.769734+00:00] User nahum logged in.
+[2026-07-31T20:38:51.759059+00:00] User nahum logged in.
+[2026-08-01T23:48:19.188904+00:00] Locker 1 rented to nahum
+[2026-08-01T23:48:19.190906+00:00] Locker 1 vacated.
+[2026-08-02T21:46:51.804156+00:00] Failed login attempt for nahum
+[2026-08-02T21:48:52.731782+00:00] User ashu created.
+[2026-08-02T21:49:49.182835+00:00] Locker 3 rented to ashu
+[2026-08-02T21:54:00.559478+00:00] Locker 11 rented to ashu
+[2026-08-02T21:55:20.120354+00:00] User liana created.
+[2026-08-02T21:56:59.127396+00:00] Locker 5 rented to liana
+[2026-08-02T21:58:38.325076+00:00] Locker 16 rented to liana

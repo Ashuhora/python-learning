@@ -1,0 +1,38 @@
+{
+    "1": null,
+    "2": null,
+    "3": {
+        "user_name": "ashu",
+        "rental_date": "2026-08-02T21:49:49.181833+00:00",
+        "contents": "gold bar"
+    },
+    "4": null,
+    "5": {
+        "user_name": "liana",
+        "rental_date": "2026-08-02T21:56:59.126405+00:00",
+        "contents": "My Motivation"
+    },
+    "6": null,
+    "7": null,
+    "8": null,
+    "9": null,
+    "10": null,
+    "11": {
+        "user_name": "ashu",
+        "rental_date": "2026-08-02T21:54:00.557473+00:00",
+        "contents": "laptop"
+    },
+    "12": null,
+    "13": null,
+    "14": null,
+    "15": null,
+    "16": {
+        "user_name": "liana",
+        "rental_date": "2026-08-02T21:58:38.323082+00:00",
+        "contents": "A tiny dragon"
+    },
+    "17": null,
+    "18": null,
+    "19": null,
+    "20": null
+}
